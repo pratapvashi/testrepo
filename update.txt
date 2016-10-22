@@ -1,8 +1,2 @@
 A
-B
-$
-C
-#
-%
-E
-F
+AChanged update file
